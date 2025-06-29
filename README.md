@@ -21,11 +21,8 @@ Completion of Pool42 projects prepares students for intermediate and advanced ch
 ## STRUCTURE
 ```
 ├── C00-POOL42-1337
-
 │   ├── README.md
-
 │   ├── c00.subject.pdf
-
 │   ├── ex00
 │   │   └── ft_putchar.c
 │   ├── ex01
