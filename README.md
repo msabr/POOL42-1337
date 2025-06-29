@@ -19,6 +19,7 @@ Completion of Pool42 projects prepares students for intermediate and advanced ch
 
 
 ## STRUCTURE
+```
 ├── C00-POOL42-1337
 
 │   ├── README.md
@@ -233,121 +234,6 @@ Completion of Pool42 projects prepares students for intermediate and advanced ch
 │   │   └── ft_sort_string_tab.c
 │   └── ex07
 │       └── ft_advanced_sort_string_tab.c
-├── EXAM-POOL42-1337
-│   ├── README.md
-│   ├── add_prime_sum
-│   │   └── add_prime_sum.c
-│   ├── aff_first_param
-│   │   └── aff_first_param.c
-│   ├── aff_last_param
-│   │   └── aff_last_param.c
-│   ├── alpha_mirror
-│   │   └── alpha_mirror.c
-│   ├── do_op
-│   │   ├── do_op.c
-│   │   └── do_op.h
-│   ├── epur_str
-│   │   └── epur_str.c
-│   ├── expand_str
-│   │   └── expand_str.c
-│   ├── first_word
-│   │   └── first_word.c
-│   ├── fizzbuzz
-│   │   └── fizzbuzz.c
-│   ├── fprime
-│   │   └── fprime.c
-│   ├── ft_atoi
-│   │   └── ft_atoi.c
-│   ├── ft_atoi_base
-│   │   └── ft_atoi_base.c
-│   ├── ft_countdown
-│   │   └── ft_countdown.c
-│   ├── ft_itoa
-│   │   ├── ft_itoa.c
-│   │   └── ft_itoa1.c
-│   ├── ft_itoa_base
-│   │   └── ft_itoa_base.c
-│   ├── ft_list_size
-│   │   ├── ft_list.h
-│   │   └── ft_list_size.c
-│   ├── ft_print_numbers
-│   │   └── ft_print_numbers.c
-│   ├── ft_printf
-│   │   └── ft_printf.c
-│   ├── ft_putstr
-│   │   └── ft_putstr.c
-│   ├── ft_range
-│   │   └── ft_range.c
-│   ├── ft_split
-│   │   ├── ft_split.c
-│   │   └── ft_split1.c
-│   ├── ft_strcmp
-│   │   └── ft_strcmp.c
-│   ├── ft_strcpy
-│   │   └── ft_strcpy.c
-│   ├── ft_strcspn
-│   │   └── ft_strcspn.c
-│   ├── ft_strdup
-│   │   └── ft_strdup.c
-│   ├── ft_strlen
-│   │   └── ft_strlen.c
-│   ├── ft_strpbrk
-│   │   └── ft_strpbrk.c
-│   ├── ft_strrev
-│   │   └── ft_strrev.c
-│   ├── ft_strspn
-│   │   └── ft_strspn.c
-│   ├── ft_swap
-│   │   └── ft_swap.c
-│   ├── get_next_line
-│   │   ├── get_next_line.c
-│   │   └── get_next_line.h
-│   ├── hidenp
-│   │   └── hidenp.c
-│   ├── inter
-│   │   └── inter.c
-│   ├── is_power_of_2
-│   │   └── is_power_of_2.c
-│   ├── last_word
-│   │   └── last_word.c
-│   ├── lcm
-│   │   └── lcm.c
-│   ├── max
-│   │   └── max.c
-│   ├── paramsum
-│   │   └── paramsum.c
-│   ├── pgcd
-│   │   └── pgcd.c
-│   ├── print_bits
-│   │   └── print_bits.c
-│   ├── print_hex
-│   │   └── print_hex.c
-│   ├── repeat_alpha
-│   │   └── repeat_alpha.c
-│   ├── rev_print
-│   │   └── rev_print.c
-│   ├── reverse_bits
-│   │   └── reverse_bits.c
-│   ├── rot_13
-│   │   └── rot_13.c
-│   ├── rotone
-│   │   └── rotone.c
-│   ├── rstr_capitalizer
-│   │   └── rstr_capitalizer.c
-│   ├── search_and_replace
-│   │   └── search_and_replace.c
-│   ├── str_capitalizer
-│   │   └── str_capitalizer.c
-│   ├── swap_bits
-│   │   └── swap_bits.c
-│   ├── tab_mult
-│   │   └── tab_mult.c
-│   ├── ulstr
-│   │   └── ulstr.c
-│   ├── union
-│   │   └── union.c
-│   └── wdmatch
-│       └── wdmatch.c
 ├── RUSH00-POOL42-1337
 │   ├── README.md
 │   ├── Rush00.en.pdf
@@ -394,5 +280,4 @@ Completion of Pool42 projects prepares students for intermediate and advanced ch
     └── shell01.subject.pdf
 
 165 directories, 206 files
-➜  c_pool 
-165 directories, 206 files
+
