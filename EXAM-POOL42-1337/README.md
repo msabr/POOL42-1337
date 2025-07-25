@@ -19,13 +19,15 @@ Over 50+ exercises including:
 - ASCII games: `fizzbuzz`, `alpha_mirror`, `repeat_alpha`
 
 For full list, run:
-    ```sh
-        tree .
+```sh
+    tree .
+```
 
 ## ⚙️ Usage
 
 Each exercise is self-contained. To compile and run:
-    ```sh
-        cd exercise_directory
-        gcc -Wall -Wextra -Werror file.c -o file
-        ./file [args]
+```sh
+    cd exercise_directory
+    gcc -Wall -Wextra -Werror file.c -o file
+    ./file [args] # if he needs arguments
+```
